@@ -451,6 +451,12 @@ df_1000.head()
 df_1000['Cell_Value'].std()
 
 
+# In[305]:
+
+
+df_1000.to_csv(r'C:\Users\Anup\Documents\Python Scripts\MDD\output.csv')
+
+
 # In[300]:
 
 
